@@ -1,0 +1,5 @@
+QWidget{background-color: #1e2a3a;}
+QPushButton{background-color: #357ab6; font: bold 13px sans-serif; color: white;}
+QLabel{font: bold 13px sans-serif; color: #FFFFF0;}
+QLineEdit{color: #FFFFF0; font: 13px sans-serif;}
+QComboBox{color: #FFFFF0; font: 13px sans_serif;}
